@@ -10,7 +10,7 @@ module.exports.homelist = function (req, res) {
             name: 'livspace ',
             
             rating: 4,
-            facilities: ['tables', 'bed', 'chairs','sofas'],
+            facilities: ['tables',  'chairs','sofas'],
             
         }, {
             name: 'Recon blinds',

@@ -305,8 +305,8 @@ body {
   font-family: "Cabin", Arial, sans-serif;
   font-size: 14px;
   line-height: 1.428571429;
-  color: #ffffff;
-  background-color: #108a93;
+  color: #000000;
+  background-color: #f8d7da;
 }
 
 input,
@@ -326,7 +326,7 @@ textarea {
 }
 
 a {
-  color: #e8d069;
+  color: #000000;
   text-decoration: none;
 }
 
@@ -483,7 +483,7 @@ h6 small,
 .h6 small {
   font-weight: normal;
   line-height: 1;
-  color: #bbbbbb;
+  color: #231818ad;
 }
 
 h1,
@@ -4699,8 +4699,8 @@ textarea.input-group-sm > .input-group-btn > .btn {
 }
 
 .navbar-default {
-  background-color: #ad1d28;
-  border-color: #911821;
+  background-color: #800000;
+  border-color: #8b0000;
 }
 
 .navbar-default .navbar-brand {
@@ -4709,7 +4709,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus {
-  color: #ffffff;
+  color: #000000;
   background-color: none;
 }
 
@@ -5159,7 +5159,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
   font-size: 75%;
   font-weight: bold;
   line-height: 1;
-  color: #ffffff;
+  color: #000000;
   text-align: center;
   white-space: nowrap;
   vertical-align: baseline;
@@ -5214,7 +5214,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 }
 
 .label-warning {
-  background-color: #debb27;
+  background-color: #ADD8E6;
 }
 
 .label-warning[href]:hover,
@@ -5603,7 +5603,7 @@ a.thumbnail:focus {
   padding: 10px 15px;
   margin-bottom: -1px;
   background-color: transparent;
-  border: 1px solid #0d747c;
+  border: 1px solid #000000;
 }
 
 .list-group-item:first-child {
@@ -5672,7 +5672,7 @@ a.list-group-item:focus {
 
 .panel {
   margin-bottom: 20px;
-  background-color: #13a0aa;
+  background-color: #ADD8E6;
   border: 1px solid transparent;
   border-radius: 4px;
   -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
@@ -7323,7 +7323,7 @@ legend {
 }
 
 .list-group-item {
-  background-color: #13a0aa;
+  background-color: #ADD8E6;
 }
 
 .popover {
